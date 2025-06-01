@@ -1,7 +1,6 @@
-# ADSUNet: An Accumulation-Difference-Based Siamese U-Shape Network for inter-frame Infrared Dim and Small Target Detection
+# ADSUNet: Accumulation-Difference-Based Siamese U-Net for inter-frame Infrared Dim and Small Target Detection
 
-
-Here, we provide the pytorch implementation of the paper: ADSUNet: An Accumulation-Difference-Based Siamese U-Shape Network for inter-frame Infrared Dim and Small Target Detection.
+Here, we provide the pytorch implementation of the paper: ADSUNet: Accumulation-Difference-Based Siamese U-Net for inter-frame Infrared Dim and Small Target Detection.
 
 
 Please see `requirements.txt` for the requirements.
